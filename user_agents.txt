@@ -1,0 +1,10 @@
+Mozilla/5.0(Macintosh;IntelMacOSX10_15_7)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4710.0Safari/537.36
+Mozilla/5.0(Macintosh;IntelMacOSX10_14_6)AppleWebKit/537.36(KHTML,likeGecko)Chrome/104.0.5112.101Safari/537.36
+Mozilla/5.0(Macintosh;IntelMacOSX10_15_7)AppleWebKit/537.36(KHTML,likeGecko)Chrome/103.2.106.6Safari/537.36
+Mozilla/5.0(Macintosh;IntelMacOSX10_14_6)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.79Safari/537.36
+Mozilla/5.0(Macintosh;IntelMacOSX10_15_7)AppleWebKit/537.36(KHTML,likeGecko)Chrome/102.0.4970.2Safari/537.36
+Mozilla/5.0(Macintosh;IntelMacOSX10_14_2)AppleWebKit/537.36(KHTML,likeGecko)Chrome/106.0.0.0Safari/537.36
+Mozilla/5.0(Macintosh;IntelMacOSX10_13_6)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.60Safari/537.36
+Mozilla/5.0(Macintosh;IntelMacOSX10_15_7)AppleWebKit/537.36(KHTML,likeGecko)Chrome/116.0.0.0Safari/537.36
+Mozilla/5.0(Macintosh;IntelMacOSX10_14_5)AppleWebKit/537.36(KHTML,likeGecko)Chrome/103.0.5060.114Safari/537.36
+Mozilla/5.0(Macintosh;IntelMacOSX10_15_7)AppleWebKit/537.36(KHTML,likeGecko)Chrome/101.0.4904.0Safari/537.36
